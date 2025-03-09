@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:400");
 
 body {
     display: flex;
@@ -11,5 +11,5 @@ body {
     color: white;
     background-color: black;
 
-    font-family: "JetBrains Mono";
+    font-family: "JetBrains Mono", monospace;
 }
