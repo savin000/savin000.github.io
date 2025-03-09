@@ -1,5 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap");
-
 body {
     display: flex;
     flex-direction: column;
@@ -11,5 +9,8 @@ body {
     color: white;
     background-color: black;
 
-    font-family: "JetBrains Mono";
+    font-family: "JetBrains Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
 }
